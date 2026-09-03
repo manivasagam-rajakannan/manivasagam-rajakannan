@@ -12,8 +12,12 @@ B.E. Electronics & Instrumentation Engineering graduate, currently completing a 
 
 **[Diabetes Risk Prediction — Live App](https://github.com/manivasagam-rajakannan/diabetes_prediction_app)**
 End-to-end ML pipeline predicting diabetes risk from patient diagnostics. Handled missing-value imputation, evaluated with ROC-AUC, deployed live on Streamlit.
-🔗 **[Try the live app](#)** ← *(add your actual Streamlit URL here)*
+🔗 **[Try the live app](#)** ← *(https://diabetespredictionapp-olb8oj78s3u8an9q7xpny5.streamlit.app/)*
 
+
+Global Development Cluster Analysis
+Unsupervised ML app clustering 208 countries into development tiers (K-Means, Hierarchical, DBSCAN, GMM) with PCA visualization and an interactive world map**(https://github.com/manivasagam-rajakannan/global-development-clustering)**
+https://global-development-clustering-8dsnebbyybdwyjzegqkbp2.streamlit.app/
 ---
 
 ### 🛠 Other Projects
