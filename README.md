@@ -29,7 +29,18 @@ I'm interested in gaining practical industry experience, strengthening my progra
 
 ## 🚀 Featured Projects — Live Applications
 
-### 💬 1. SentiLens — Customer Review Sentiment Intelligence
+### ⚙️ 1. Maintenance Watch — Industrial Predictive Maintenance
+
+**Python | Power BI | PostgreSQL | Docker**
+
+Upload machine readings as a CSV to see row-level scores, review flags, and a downloadable result. Scores above 50% can trigger an audible alert. The local monitor feeds a continuously refreshing Power BI report through PostgreSQL.
+
+The Decision Tree flagged 44 of 61 failures on a 2,000-row synthetic AI4I holdout (72.1% recall).
+
+[Open the public app](https://manivasagam-rajakannan.github.io/maintenance-watch/) | [Project repository and setup](https://github.com/manivasagam-rajakannan/maintenance-watch)
+
+
+### 💬 2. SentiLens — Customer Review Sentiment Intelligence
 
 **Natural Language Processing | TF-IDF | Python | Streamlit**
 
@@ -46,7 +57,7 @@ An interactive customer review sentiment analysis project exploring text classif
 
 **[🌐 Live Application](https://sentilens-review-intelligence-bkktxhpnsxrh37jxrvtavh.streamlit.app/)** | **[💻 Source Code](https://github.com/manivasagam-rajakannan/sentilens-review-intelligence)**
 
-### 🌍 2. Global Development Cluster Analysis
+### 🌍 3. Global Development Cluster Analysis
 
 **Unsupervised Machine Learning | Python | scikit-learn | PCA | Streamlit**
 
@@ -60,7 +71,7 @@ An interactive machine learning application that explores development patterns a
 
 **[🌐 Live Application](https://global-development-clustering-8dsnebbyybdwyjzegqkbp2.streamlit.app/)** | **[💻 Source Code](https://github.com/manivasagam-rajakannan/global-development-clustering)**
 
-### 🩺 3. Diabetes Risk Prediction
+### 🩺 4. Diabetes Risk Prediction
 
 **Supervised Machine Learning | Python | scikit-learn | Streamlit**
 
