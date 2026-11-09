@@ -1,63 +1,28 @@
-# Hi, I'm Manivasagam Rajakannan 👋
+# Manivasagam Rajakannan
 
-### Data Science | Machine Learning | AI | NLP | Predictive Analytics
+**Data Science & Analytics · Electronics & Instrumentation Engineering**
 
-🎓 B.E. Electronics & Instrumentation Engineering Graduate (2025)  
-💻 Data Science Specialization — ExcelR  
-📍 India  
-🚀 Building practical Machine Learning and AI applications
+I build Python, SQL, and Power BI projects for operational data and customer feedback. I completed ExcelR’s Data Science program and a Data Science internship at AI Variant. I’m looking for entry-level data analytics, data science, and applied ML roles in Bengaluru.
 
----
+[Connect on LinkedIn](https://www.linkedin.com/in/manivasagam-rajakannan-794aa524b/)
 
-## 👨‍💻 About Me
+## Featured projects
 
-I'm an Electronics and Instrumentation Engineering graduate with hands-on training in Data Science, Machine Learning, and Artificial Intelligence.
+### Maintenance Watch — Industrial Predictive Maintenance
 
-My work focuses on developing data-driven solutions, exploring machine learning algorithms, evaluating predictive models, and making them accessible through interactive applications.
+[Try the live app](https://manivasagam-rajakannan.github.io/maintenance-watch/) · [Browse the source and Power BI setup](https://github.com/manivasagam-rajakannan/industrial-predictive-maintenance)
 
-My engineering background gives me an additional interest in Industrial AI, automation, sensor data, and intelligent systems.
+Upload a CSV of machine readings or choose **Try sample** to see scores, review flags, and a downloadable results file. The local monitor feeds a refreshing Power BI report through PostgreSQL and Docker.
 
-**Currently seeking opportunities in:**
-- Data Analytics and Business Intelligence
-- Data Science and Machine Learning
-- AI/ML Internships and Graduate Trainee Positions
-- Industrial AI and Automation Analytics
+The Decision Tree flagged **44 of 61 failure examples (72.1% recall)** on a 2,000-row synthetic AI4I holdout. The repository includes the evaluation, Python scorer, dashboard, Power BI projects, and reproducible setup.
 
-I'm interested in gaining practical industry experience, strengthening my programming skills, and contributing to real-world data projects.
+### SentiLens — Customer Review Sentiment
 
----
+[Try the Streamlit demo](https://sentilens-review-intelligence-bkktxhpnsxrh37jxrvtavh.streamlit.app/) · [Browse the NLP notebook and source](https://github.com/manivasagam-rajakannan/sentilens-review-intelligence)
 
-## 🚀 Featured Projects — Live Applications
+The notebook compares TF-IDF classifiers for positive, neutral, and negative reviews. Tuned Logistic Regression with SMOTE recorded **78.82% accuracy on 288 held-out reviews**. The Streamlit demo uses labeled rule-based scoring for single reviews and CSV batches.
 
-### ⚙️ 1. Maintenance Watch — Industrial Predictive Maintenance
-
-**Python | Power BI | PostgreSQL | Docker**
-
-Upload machine readings as a CSV to see row-level scores, review flags, and a downloadable result. Scores above 50% can trigger an audible alert. The local monitor feeds a continuously refreshing Power BI report through PostgreSQL.
-
-The Decision Tree flagged 44 of 61 failures on a 2,000-row synthetic AI4I holdout (72.1% recall).
-
-[Open the public app](https://manivasagam-rajakannan.github.io/maintenance-watch/) | [Project repository and setup](https://github.com/manivasagam-rajakannan/maintenance-watch)
-
-
-### 💬 2. SentiLens — Customer Review Sentiment Intelligence
-
-**Natural Language Processing | TF-IDF | Python | Streamlit**
-
-An interactive customer review sentiment analysis project exploring text classification into Positive, Neutral, and Negative categories.
-
-**Highlights:**
-- Developed an NLP experimentation notebook using TF-IDF and machine learning classifiers.
-- Explored Logistic Regression, Naive Bayes, SVM, and class imbalance handling.
-- Created an interactive dashboard for individual review analysis.
-- Added CSV-based batch processing, sentiment summaries, and downloadable results.
-- Deployed a demonstration application using Streamlit.
-
-*The hosted application uses a labeled rule-based demonstration mode until the original trained classifier is supplied. Notebook experiments and live demo inference are distinct.*
-
-**[🌐 Live Application](https://sentilens-review-intelligence-bkktxhpnsxrh37jxrvtavh.streamlit.app/)** | **[💻 Source Code](https://github.com/manivasagam-rajakannan/sentilens-review-intelligence)**
-
-### 🌍 3. Global Development Cluster Analysis
+### Global Development Cluster Analysis
 
 **Unsupervised Machine Learning | Python | scikit-learn | PCA | Streamlit**
 
@@ -71,7 +36,7 @@ An interactive machine learning application that explores development patterns a
 
 **[🌐 Live Application](https://global-development-clustering-8dsnebbyybdwyjzegqkbp2.streamlit.app/)** | **[💻 Source Code](https://github.com/manivasagam-rajakannan/global-development-clustering)**
 
-### 🩺 4. Diabetes Risk Prediction
+### Diabetes Risk Prediction
 
 **Supervised Machine Learning | Python | scikit-learn | Streamlit**
 
@@ -117,7 +82,7 @@ Exploratory Data Analysis • Hypothesis Testing • Feature Engineering • Mod
 TensorFlow • Keras • Neural Networks • RNN • LSTM • TF-IDF • NLTK • Text Classification
 
 **Tools & Deployment**  
-Streamlit • Git • GitHub • Matplotlib • Seaborn
+Power BI • PostgreSQL • Streamlit • Git • GitHub • Matplotlib • Seaborn
 
 **Additional MLOps Exposure**  
 Docker • MLflow • FastAPI
@@ -154,7 +119,7 @@ My multidisciplinary background connects engineering concepts with data analytic
 
 📧 **Email:** [vasagammani2004@gmail.com](mailto:vasagammani2004@gmail.com)
 
-💼 **LinkedIn:** [Manivasagam Rajakannan](https://linkedin.com/in/manivasagam-r794aa524b)
+💼 **LinkedIn:** [Manivasagam Rajakannan](https://www.linkedin.com/in/manivasagam-rajakannan-794aa524b/)
 
 💻 **GitHub:** [manivasagam-rajakannan](https://github.com/manivasagam-rajakannan)
 
