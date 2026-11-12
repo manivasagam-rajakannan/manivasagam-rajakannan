@@ -54,6 +54,10 @@ A deployed classification application that estimates diabetes likelihood based o
 
 ---
 
+### Pump Telemetry Copilot
+
+Pump fault scoring from vibration, temperature, pressure, and motor current. The Streamlit operator screen and the Power BI Live Monitor use the same timestamped readings from PostgreSQL. [Pump project](https://github.com/manivasagam-rajakannan/pump-telemetry-copilot) · [Integrated release with Maintenance Watch](https://github.com/manivasagam-rajakannan/industrial-predictive-maintenance/tree/portfolio-apps)
+
 ## 📚 Machine Learning & Data Science Portfolio
 
 | Project | Focus |
