@@ -10,7 +10,7 @@ I build Python, SQL, and Power BI projects for operational data and customer fee
 
 ### Maintenance Watch — Industrial Predictive Maintenance
 
-[Try the live app](https://manivasagam-rajakannan.github.io/maintenance-watch/) · [Browse the source and Power BI setup](https://github.com/manivasagam-rajakannan/industrial-predictive-maintenance)
+[Try Maintenance Watch on Render](https://maintenance-watch-live-f7q1.onrender.com/) · [Browser preview](https://manivasagam-rajakannan.github.io/maintenance-watch/) · [Browse the source and Power BI setup](https://github.com/manivasagam-rajakannan/industrial-predictive-maintenance)
 
 Upload a CSV of machine readings or choose **Try sample** to see scores, review flags, and a downloadable results file. The local monitor feeds a refreshing Power BI report through PostgreSQL and Docker.
 
@@ -56,7 +56,7 @@ A deployed classification application that estimates diabetes likelihood based o
 
 ### Pump Telemetry Copilot
 
-Pump fault scoring from vibration, temperature, pressure, and motor current. The Streamlit operator screen and the Power BI Live Monitor use the same timestamped readings from PostgreSQL. [Pump project](https://github.com/manivasagam-rajakannan/pump-telemetry-copilot) · [Integrated release with Maintenance Watch](https://github.com/manivasagam-rajakannan/industrial-predictive-maintenance/tree/portfolio-apps)
+Pump fault scoring from vibration, temperature, pressure, and motor current. The Streamlit operator screen and the Power BI Live Monitor use the same timestamped readings from PostgreSQL. [Try Pump Telemetry Copilot](https://pump-telemetry-copilot-f7q1.onrender.com/) · [Pump project](https://github.com/manivasagam-rajakannan/pump-telemetry-copilot) · [Integrated release with Maintenance Watch](https://github.com/manivasagam-rajakannan/industrial-predictive-maintenance/tree/portfolio-apps)
 
 ## 📚 Machine Learning & Data Science Portfolio
 
